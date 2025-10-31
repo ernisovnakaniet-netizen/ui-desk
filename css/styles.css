@@ -121,7 +121,7 @@ body {
   max-width: 596px;
   padding-top: 160px;
   font-family: var(--font-family);
-  font-weight: 770;
+  font-weight: 600;
   font-size: 70px;
   color: #181d19;
 }
@@ -150,7 +150,7 @@ body {
 
 .hero__right {
   background-image: url("../img/bg\ elements.png");
-  width: 750px;
+  width: 750 px;
   height: 561px;
 }
 .hero__img {
